@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RouterSample</string>
+    <string name="show_list">show list person</string>
+    <string name="main_frag">Main fragment</string>
+    <string name="a_frag">A fragment</string>
+    <string name="b_frag">B fragment</string>
+    <string name="c_frag">C fragment</string>
+    <string name="hint">введите запрос</string>
+    <string name="start_c_frag">START FRAGMENT C</string>
+    <string name="back_to_main">BACK TO MAIN</string>
+</resources>
